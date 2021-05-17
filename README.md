@@ -10,4 +10,11 @@
 
 ## Switch to test-branch
 
+<<<<<<< HEAD
 'git checkout test-branch'git
+=======
+'git checkout test-branch'
+'git checkout main'
+
+## Main branch edits
+>>>>>>> test-branch
