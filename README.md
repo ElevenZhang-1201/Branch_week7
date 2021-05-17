@@ -10,7 +10,7 @@
 
 ## Switch to test-branch
 
-'git checkout test-branch'git
-
+'git checkout test-branch'
+'git checkout main'
 
 ## Main branch edits
